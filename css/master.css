@@ -606,11 +606,12 @@ header .container .box #get:hover {
     margin-top: 30px;
 }
 .custom-r .container .reviews .box .content h4 {
+    color: #e69d3d;
     font-size: 22px;
     margin-bottom: 5px;
 }
 .custom-r .container .reviews .box .content p {
-    color: #e69d3d;
+    color: #eee;
 }
 .custom-r .container .bullets {
     position: absolute;
