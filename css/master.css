@@ -614,7 +614,7 @@ header .container .box #get:hover {
 }
 .custom-r .container .bullets {
     position: absolute;
-    bottom: 0px;
+    bottom: -40px;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
